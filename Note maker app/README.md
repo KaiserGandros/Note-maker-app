@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a note taking web application that allows to keep track of information that he/she inputs into it. It uses javascript for its dynamic abilites to display the cards with the title and description info. It also uses node and express.js to use a static .JSON file for information storage using two queries.
+This is a note taking web application that allows to keep track of information that he/she inputs into it. It uses javascript for its dynamic abilites to display the cards with the title and description info. It also uses node and express.js to use a static .JSON file for information storage using two queries. Uses some repurposed code from the student mini project from 11-express in class.
 
 ## Table of Contents
 - [Installation](#installation)
